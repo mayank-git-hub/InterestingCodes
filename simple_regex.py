@@ -1,6 +1,3 @@
-import sys
-
-
 def match(string, pattern):
     
     """Recursive
